@@ -1,0 +1,17 @@
+D:\SAVES\PROYECTOS\C#\Encoders\bin\Debug\net6.0-windows\Encoders.exe
+D:\SAVES\PROYECTOS\C#\Encoders\bin\Debug\net6.0-windows\Encoders.deps.json
+D:\SAVES\PROYECTOS\C#\Encoders\bin\Debug\net6.0-windows\Encoders.runtimeconfig.json
+D:\SAVES\PROYECTOS\C#\Encoders\bin\Debug\net6.0-windows\Encoders.dll
+D:\SAVES\PROYECTOS\C#\Encoders\bin\Debug\net6.0-windows\Encoders.pdb
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\Encoders.csproj.AssemblyReference.cache
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\Encoders.Form1.resources
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\Encoders.csproj.GenerateResource.cache
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\Encoders.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\Encoders.AssemblyInfoInputs.cache
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\Encoders.AssemblyInfo.cs
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\Encoders.csproj.CoreCompileInputs.cache
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\Encoders.dll
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\refint\Encoders.dll
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\Encoders.pdb
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\Encoders.genruntimeconfig.cache
+D:\SAVES\PROYECTOS\C#\Encoders\obj\Debug\net6.0-windows\ref\Encoders.dll
