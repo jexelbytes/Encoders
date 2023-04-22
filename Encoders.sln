@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encoders", "Encoders.csproj", "{F6F8280F-4069-4AC2-9420-9D8F997F1FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encoders", "Encoders.csproj", "{F6F8280F-4069-4AC2-9420-9D8F997F1FD1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Encoders-Installer", "..\Encoders-Installer\Encoders-Installer.vdproj", "{1DD89F07-7F0E-4598-8AC3-43E2FC6ADEE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{F6F8280F-4069-4AC2-9420-9D8F997F1FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6F8280F-4069-4AC2-9420-9D8F997F1FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6F8280F-4069-4AC2-9420-9D8F997F1FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD89F07-7F0E-4598-8AC3-43E2FC6ADEE5}.Debug|Any CPU.ActiveCfg = Debug
+		{1DD89F07-7F0E-4598-8AC3-43E2FC6ADEE5}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.Salida = new System.Windows.Forms.RichTextBox();
             this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.copiarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
@@ -151,6 +152,7 @@
             // button2
             // 
             this.button2.Enabled = false;
+            this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button2.Location = new System.Drawing.Point(350, 11);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
@@ -161,6 +163,7 @@
             // 
             // Clave
             // 
+            this.Clave.Enabled = false;
             this.Clave.Location = new System.Drawing.Point(12, 56);
             this.Clave.Name = "Clave";
             this.Clave.Size = new System.Drawing.Size(776, 23);
@@ -232,6 +235,7 @@
             this.Controls.Add(this.Entrada);
             this.Controls.Add(this.Salida);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Form1";
             this.contextMenuStrip2.ResumeLayout(false);

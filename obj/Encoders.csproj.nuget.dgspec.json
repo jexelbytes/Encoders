@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SAVES\\PROYECTOS\\C#\\Encoders\\Encoders.csproj": {}
+    "D:\\SAVES\\PROYECTOS\\C#\\Ecoder-app\\Encoders\\Encoders.csproj": {}
   },
   "projects": {
-    "D:\\SAVES\\PROYECTOS\\C#\\Encoders\\Encoders.csproj": {
+    "D:\\SAVES\\PROYECTOS\\C#\\Ecoder-app\\Encoders\\Encoders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SAVES\\PROYECTOS\\C#\\Encoders\\Encoders.csproj",
+        "projectUniqueName": "D:\\SAVES\\PROYECTOS\\C#\\Ecoder-app\\Encoders\\Encoders.csproj",
         "projectName": "Encoders",
-        "projectPath": "D:\\SAVES\\PROYECTOS\\C#\\Encoders\\Encoders.csproj",
-        "packagesPath": "C:\\Users\\jexel\\.nuget\\packages\\",
-        "outputPath": "D:\\SAVES\\PROYECTOS\\C#\\Encoders\\obj\\",
+        "projectPath": "D:\\SAVES\\PROYECTOS\\C#\\Ecoder-app\\Encoders\\Encoders.csproj",
+        "packagesPath": "C:\\Users\\Jexel\\.nuget\\packages\\",
+        "outputPath": "D:\\SAVES\\PROYECTOS\\C#\\Ecoder-app\\Encoders\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Programs\\VS\\Componentes, herramientas y SDK\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jexel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jexel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
